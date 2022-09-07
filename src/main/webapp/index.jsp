@@ -29,7 +29,7 @@
 <body data-spy="scroll" data-target=".navbar" data-offset="51">
     <!-- Navbar Start -->
     <nav class="navbar fixed-top shadow-sm navbar-expand-lg bg-dark navbar-dark py-3 py-lg-0 px-lg-5">
-        <a href="index.html" class="navbar-brand d-block d-lg-none">
+        <a href="index.jsp" class="navbar-brand d-block d-lg-none">
             <h1 class="font-secondary text-white mb-n2">Jack <span class="text-primary">&</span> Rose</h1>
         </a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
@@ -42,7 +42,7 @@
                 <a href="#story" class="nav-item nav-link">Story</a>
                 <a href="#gallery" class="nav-item nav-link">Gallery</a>
             </div>
-            <a href="index.html" class="navbar-brand mx-5 d-none d-lg-block">
+            <a href="index.jsp" class="navbar-brand mx-5 d-none d-lg-block">
                 <h1 class="font-secondary text-white mb-n2">Jack <span class="text-primary">&</span> Rose</h1>
             </a>
             <div class="navbar-nav mr-auto py-0">
